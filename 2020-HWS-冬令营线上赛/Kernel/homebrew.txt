@@ -1,0 +1,1 @@
+这是一个在内网中获取客户端真实 IP 的模块。他可能存在一些漏洞，请你尝试利用这些漏洞来获得主机权限。靶机 Linux 内核版本为 4.19.164-0419164-generic，当你成功在本地利用这个模块中的漏洞 Getshell 之后，请将你的 exp 发送到 i@zhaoj.in，我会给你一个靶机的 ssh 连接，这样你就可以在靶机上进行攻击并且获得 flag。(Hint1: https://gist.github.com/glzjin/fb87701d37b6351b1a9d2dc5dfab6e57)
